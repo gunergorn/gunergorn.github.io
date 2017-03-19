@@ -1,0 +1,47 @@
+/*element selector*/
+body {
+ padding-top: 20px;
+ background: #F4F6F6;
+}
+
+/*class selector*/
+.card-title{
+	font-weight: bold;
+}
+.img-circle {
+	height: 100px;
+}
+.progress progress-success {
+	color: red;
+}
+.card text-centre {
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.card {
+	margin-top: 10px;
+}
+
+.list {
+	font-size: 15px;
+}
+
+.navbar-text {
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+.navbar, .navbar-default, .navbar-fixed-top {
+	background-color: #85929E !important;
+	background-image: none;
+}
+
+.h1 {
+	text-align: center;
+	color: #85929E;
+}
+
+.card-title {
+	color: #85929E;
+}
